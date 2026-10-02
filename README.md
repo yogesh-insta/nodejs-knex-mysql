@@ -1,5 +1,10 @@
 # NodeJs, Knex, MySQL, Jest example
 
+**Stack:** Node.js, Knex, MySQL, Jest
+
+**Skills:** SQL, transactions, automated testing
+
+
 _I have deliberately limited the scope of this example to demonstrate Knex and MySQL_
 
 This example contains 
@@ -21,4 +26,4 @@ This example contains
 ###### Note 
 _running the application just prints the available products from the database. 
 If you want to try CRUD/transaction operations then refer *.spec.js files, remove .skip and try 
-running those tests with experimental data_ 
+running those tests with experimental data_
